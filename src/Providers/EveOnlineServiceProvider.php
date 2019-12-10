@@ -1,6 +1,6 @@
 <?php
 
-namespace nullx27\Socialite\EveOnline\Providers;
+namespace Sayorus\Socialite\EveOnline\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

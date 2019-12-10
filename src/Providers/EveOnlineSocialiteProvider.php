@@ -1,5 +1,5 @@
 <?php
-namespace nullx27\Socialite\EveOnline\Providers;
+namespace Sayorus\Socialite\EveOnline\Providers;
 
 use Laravel\Socialite\Two\ProviderInterface;
 use Laravel\Socialite\Two\AbstractProvider;

@@ -1,5 +1,5 @@
 {
-    "name": "Sayorus/eveonline-socialite",
+    "name": "sayorus/eveonline-socialite",
     "description": "EveOnline SSO Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [

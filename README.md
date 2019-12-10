@@ -1,12 +1,14 @@
 # Eve Online Provider for Laravel Socialite
 
+I do not claim authorship of the package, I have only updated the dependencies
+
 ## Installation and config
 Install Larvel Socialite (see here: https://github.com/laravel/socialite/blob/2.0/readme.md)
 
 Install the eveonline socialite provider
 
 ```
-composer require nullx27/eveonline-socialite
+composer require sayorus/eveonline-socialite
 ```
 
 Add the follwing to your .env file:
@@ -22,7 +24,7 @@ EVEONLINE_REDIRECT=
 #### Laravel <= 5.4
 Add the following to your config/app.php
 ```
-nullx27\Socialite\EveOnline\Providers\EveOnlineServiceProvider::class,
+Sayorus\Socialite\EveOnline\Providers\EveOnlineServiceProvider::class,
 ```
 
 #### Laravel 5.5

@@ -8,7 +8,7 @@ Install Larvel Socialite (see here: https://github.com/laravel/socialite/blob/2.
 Install the eveonline socialite provider
 
 ```
-composer require sayorus/eveonline-socialite
+composer require molbal/eveonline-socialite
 ```
 
 Add the follwing to your .env file:
